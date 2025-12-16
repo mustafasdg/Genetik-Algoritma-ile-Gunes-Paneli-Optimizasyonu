@@ -47,7 +47,7 @@ Projede klasik bir genetik algoritma yapısı uygulanmıştır. Algoritma aşağ
 3. Uygunluk (Fitness) Fonksiyonu
    Fitness fonksiyonu, her bireyin enerji verimini hesaplamaktadır. Algoritma bu değeri maksimize etmeyi amaçlar.
 
-4. Seçilim Mekanizması – Turnuva Seçimi
+4. Seçilim Mekanizması – Rulet Seçimi
    Popülasyondan rastgele seçilen bireyler arasından uygunluk değeri en yüksek olan birey ebeveyn olarak seçilmektedir. Bu yöntem, genetik çeşitliliği korurken seçilim baskısını da sağlamaktadır.
 
 5. Çaprazlama (Crossover)
@@ -80,5 +80,10 @@ Bu çalışma bireysel olarak gerçekleştirilmiştir. Kodların tamamı öğren
 Ad Soyad: Mustafa Yıldız
 Okul Numarası: 2212729001
 GitHub Repo: [https://github.com/mustafasdg/Genetik-Algoritma-ile-Gunes-Paneli-Optimizasyonu.](https://github.com/mustafasdg/Genetik-Algoritma-ile-Gunes-Paneli-Optimizasyonu.)
+
+## Kurulum ve Çalıştırma
+1 - .ipynb dosyasını Google Colab veya Jupyter Notebook ile açın.
+2 - Tüm hücreleri sırasıyla çalıştırın.
+3 - Sonuç grafiği en altta görüntülenecektir.
 
 
