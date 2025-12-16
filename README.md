@@ -47,7 +47,7 @@ Projede klasik bir genetik algoritma yapısı uygulanmıştır. Algoritma aşağ
 3. Uygunluk (Fitness) Fonksiyonu
    Fitness fonksiyonu, her bireyin enerji verimini hesaplamaktadır. Algoritma bu değeri maksimize etmeyi amaçlar.
 
-4. Seçilim Mekanizması – Rulet Seçimi
+4. Seçilim Mekanizması – Turnuva Seçimi
    Popülasyondan rastgele seçilen bireyler arasından uygunluk değeri en yüksek olan birey ebeveyn olarak seçilmektedir. Bu yöntem, genetik çeşitliliği korurken seçilim baskısını da sağlamaktadır.
 
 5. Çaprazlama (Crossover)
